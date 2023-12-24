@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configuration file (if you use local settings)
+instance/
+
+# Environment variables file
+.env
+
+# Dependency directories
+venv/
+env/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sqlite
+db.sqlite
+
+# Output files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# PyInstaller
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Generated files
+*.db
+
