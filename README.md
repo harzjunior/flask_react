@@ -1,4 +1,4 @@
-Documenting a project involves creating documentation that explains how the project works, its structure, and how to set it up. Below, I'll guide you on how to create basic documentation for your Flask-React project.
+Documentation for your Flask-React project.
 
 ### Documentation Structure:
 
@@ -102,5 +102,3 @@ To add a new book, fill in the details in the input form and click "Add to Books
 5. Submit a pull request.
 
 ```
-
-Feel free to customize this template based on the specifics of your project. Documentation is an ongoing process, so update it as your project evolves.
