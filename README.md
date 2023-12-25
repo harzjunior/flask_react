@@ -1,5 +1,3 @@
-Documentation for your Flask-React project.
-
 ### Documentation Structure:
 
 1. **Overview:**
